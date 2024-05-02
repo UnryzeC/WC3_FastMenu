@@ -4,7 +4,7 @@ Repository dedicated to speed up menu navigation in Warcraft 3.
 Fast Menu library (module) is dedicated to increase animation/processing speed of menus in Warcraft 3.
 
 ## What patches does it support?
-Patches 1.26a-1.28f.
+Patches 1.24e/1.26a/1.27a/1.27b/1.28f
 
 ## How to use this?
 Simple place this file in your Warcraft III root folder or in Redist\Miles that also resides in the root folder.
