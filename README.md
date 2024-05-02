@@ -11,3 +11,5 @@ Simple place this file in your Warcraft III root folder or in Redist\Miles that 
 
 ## Are there any downsides?
 Potential "collision" with WFE, but it shouldn't be much of an issue in general.
+
+https://github.com/UnryzeC/WC3_FastMenu/assets/95709901/7ecd826a-36ec-493f-8cf9-6a5da9f59aab
